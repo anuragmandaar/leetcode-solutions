@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
+| [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Brainteaser
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |

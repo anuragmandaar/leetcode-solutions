@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

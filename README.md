@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Brainteaser
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

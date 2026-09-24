@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

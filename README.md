@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0796-rotate-string) |

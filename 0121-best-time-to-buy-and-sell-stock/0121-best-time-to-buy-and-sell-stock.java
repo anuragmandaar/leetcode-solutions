@@ -3,7 +3,7 @@ class Solution {
         int minPrice = prices[0];
         int maxPro = 0;
 
-        for (int i = 0; i < prices.length; i++) {
+        for (int i = 1; i < prices.length; i++) {
             if (prices[i] < minPrice) {
                 minPrice = prices[i];
             } else if (prices[i] - minPrice > maxPro) {

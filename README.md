@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## String
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0796-rotate-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

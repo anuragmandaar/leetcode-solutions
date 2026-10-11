@@ -1,19 +1,11 @@
 class Solution {
-    public int numJewelsInStones(String jewels, String stones) {
-        boolean[] isJewel = new boolean[128];
-
-        for (char c : jewels.toCharArray()) {
-            isJewel[c] = true;
+public int numJewelsInStones(String jewels, String stones) {
+int count = 0;
+    for (int i = 0; i < stones.length(); i++) {
+        if (jewels.contains(String.valueOf(stones.charAt(i)))) {
+            count++;
         }
-
-        int count = 0;
-
-        for (char c : stones.toCharArray()) {
-            if (isJewel[c]) {
-                count++;
-            }
-        }
-
-        return count;
     }
+    return count;
+}
 }

@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Newton's Method
 |  |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0204-count-primes) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

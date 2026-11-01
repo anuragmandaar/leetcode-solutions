@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Brainteaser
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

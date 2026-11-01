@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0819-most-common-word](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Brainteaser
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0819-most-common-word) |
 | [3110-score-of-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/anuragmandaar/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
